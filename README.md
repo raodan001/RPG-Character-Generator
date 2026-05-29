@@ -3,5 +3,6 @@ Hello to all beta testers & role-players. This is an application to Design/Gener
 
 Thank you all.
 
-<img width="598" height="514" alt="RCG" src="https://github.com/user-attachments/assets/32b016da-a36b-4421-97da-31eebfacb224" />
+<img width="602" height="576" alt="Screenshot_general" src="https://github.com/user-attachments/assets/705e4fe2-c641-42b8-9566-4f272c831576" />
+
 
